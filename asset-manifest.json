@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/delivery-app-front-end/static/css/main.5319eeab.css",
+    "main.js": "/delivery-app-front-end/static/js/main.ac30f1b3.js",
+    "shop-page.js": "/delivery-app-front-end/static/js/shop-page.fbde874c.chunk.js",
+    "cart-page.js": "/delivery-app-front-end/static/js/cart-page.8a380dbe.chunk.js",
+    "static/js/134.ec36ab60.chunk.js": "/delivery-app-front-end/static/js/134.ec36ab60.chunk.js",
+    "index.html": "/delivery-app-front-end/index.html",
+    "main.5319eeab.css.map": "/delivery-app-front-end/static/css/main.5319eeab.css.map",
+    "main.ac30f1b3.js.map": "/delivery-app-front-end/static/js/main.ac30f1b3.js.map",
+    "shop-page.fbde874c.chunk.js.map": "/delivery-app-front-end/static/js/shop-page.fbde874c.chunk.js.map",
+    "cart-page.8a380dbe.chunk.js.map": "/delivery-app-front-end/static/js/cart-page.8a380dbe.chunk.js.map",
+    "134.ec36ab60.chunk.js.map": "/delivery-app-front-end/static/js/134.ec36ab60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5319eeab.css",
+    "static/js/main.ac30f1b3.js"
+  ]
+}
